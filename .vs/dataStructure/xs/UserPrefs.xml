@@ -2,17 +2,19 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="dataStructure/Controllers/BinaryTreeController.cs">
     <Files>
       <File FileName="dataStructure/Controllers/BinaryTreeController.cs" Line="19" Column="17" />
-      <File FileName="dataStructure/Properties/launchSettings.json" Line="15" Column="31" />
-      <File FileName="dataStructure/appsettings.json" Line="1" Column="1" />
-      <File FileName="dataStructure/Program.cs" Line="1" Column="1" />
-      <File FileName="dataStructure/Startup.cs" Line="1" Column="1" />
+      <File FileName="dataStructure/Properties/launchSettings.json" />
+      <File FileName="dataStructure/appsettings.json" />
+      <File FileName="dataStructure/Program.cs" />
+      <File FileName="dataStructure/Startup.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dataStructure" expanded="True">
-            <Node name="dataStructure" expanded="True" selected="True">
-              <Node name="Controllers" expanded="True" />
+            <Node name="dataStructure" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BinaryTreeController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
